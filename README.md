@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArteShow
-- 👀 I’m interested in coding on python and web
+- 👀 I’m interested in coding on go and web
 - 🌱 I’m currently learning the web.
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me sokartemax@gmail.com
